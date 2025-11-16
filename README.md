@@ -1,10 +1,12 @@
 Este es el archivo README de Óscar Portugués
 
 
-Cambios en el Main
+Editamos el main para percibir el rebase
+
 
 
 Editado en la rama experimento
 
 
 Acciones de rebase
+
